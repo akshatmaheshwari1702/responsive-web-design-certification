@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<link href="https://fonts.googleapis.com/css?family=Architects+Daughter&display=swap" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="layout.css">
+	<script src="script.js"></script>
+	<title>Landing Page</title>
+</head>
+
+<body>
+	<!--FreeCodeCamp test-->
+	<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+	<header id="header">
+		<nav id="nav-bar">
+			<ul class="nav-ul">
+				<img id="header-img" src="https://i1.sndcdn.com/avatars-000318071518-7cihid-t500x500.jpg"
+					alt="optical illusions photo" />
+				<li class="nav-link"><a href="#about-us">about us</a></li>
+				<li class="nav-link"><a href="#services">services</a></li>
+				<li class="nav-link"><a href="#portfolio">portfolio</a></li>
+				<li class="nav-link"><a href="#contact">contact</a></li>
+			</ul>
+			<hr>
+		</nav>
+	</header>
+	<main>
+		<section id="about-us">
+			<h1>Where your creative side begins...</h1>
+			<p>We are a home studio based in an unmaginable place which we can not go and we do not know
+				what is there.</p>
+		</section>
+		<section id="services">
+			<h1>Our Services</h1>
+			<div class="services-container">
+				<a class="service">
+					<h2>Music Recording</h2>
+					<ul>
+						<li>Live Recording</li>
+						<li>Instruments available</li>
+						<li>Post production</li>
+					</ul>
+				</a>
+				<a class="service">
+					<h2>Career Advice</h2>
+					<ul>
+						<li>Song scanning</li>
+						<li>Live support</li>
+						<li>Online library</li>
+					</ul>
+				</a>
+			</div>
+		</section>
+		<section id="portfolio">
+			<h1>Our portfolio</h1>
+			<iframe id="video" src="https://www.youtube.com/embed/e_xqTXs91hE" frameborder="0"
+				allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+			</iframe>
+		</section>
+		<section id="contact">
+			<form id="form" action="https://www.freecodecamp.com/email-submit">
+				<ul>
+					<h1>Drop me a line!</h1>
+					<label for="email">Your email:</label>
+					<input id="email" type="email" name="email" placeholder="Enter your email" required>
+					<input id="submit" type="submit" value="Submit form">
+				</ul>
+			</form>
+		</section>
+	</main>
+	<button id="scrollBtn" onclick="scrollUp()">△</button>
+</body>
+
+</html>

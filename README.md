@@ -7,7 +7,7 @@ For each project was required to run this script below in order to check whether
 ---
 #### **Challenge 1** - Build a Tribute Page
 
-**Solution:** https://codepen.io/jonathanbcsouza/full/xNpQwQ
+**Solution:** https://codepen.io/akshatmaheshwari1702/pen/NWdoEgq
 
 <ol>
     <li>
@@ -42,7 +42,7 @@ For each project was required to run this script below in order to check whether
 ---
 #### **Challenge 2** - Build A Survey Form
 
-**Solution:** https://codepen.io/jonathanbcsouza/full/wbVgKX
+**Solution:** https://codepen.io/akshatmaheshwari1702/pen/vYgbQJb
 <ol>
     <li>
     I can see a title with id="title" in H1 sized text.
@@ -82,7 +82,7 @@ For each project was required to run this script below in order to check whether
 ---
 #### **Challenge 3** - Build A Product Landing Page
 
-**Solution:** https://codepen.io/jonathanbcsouza/pen/dBRoPz?editors=1100#0
+**Solution:** https://codepen.io/akshatmaheshwari1702/pen/YzNBvNx
 
 <ol>
     <li>
@@ -120,7 +120,7 @@ For each project was required to run this script below in order to check whether
 ---
 #### **Challenge 4** - Build A Technical Documentation Page
 
-**Solution:** https://codepen.io/jonathanbcsouza/full/WqBpog
+**Solution:** https://codepen.io/akshatmaheshwari1702/pen/bGgzQqG
 
 <ol>
     <li>
@@ -158,7 +158,7 @@ For each project was required to run this script below in order to check whether
 ---
 #### **Challenge 5** - Build A Personal Portfolio Webpage
 
-**Solution:** https://codepen.io/jonathanbcsouza/pen/wVoOwN?editors=1100
+**Solution:** https://codepen.io/akshatmaheshwari1702/pen/VwPgVqN
 
 <ol>
     <li>
